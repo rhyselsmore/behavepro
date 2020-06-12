@@ -1,1 +1,1 @@
-Feature: test123
+/etc/passwd
